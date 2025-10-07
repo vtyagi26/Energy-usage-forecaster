@@ -1,7 +1,4 @@
 # Energy Usage Forecaster Project
-
-This text file contains all instructions and resources to set up and run the Energy Usage Forecaster project locally.
-
 ---
 
 ## 1. Project Overview
